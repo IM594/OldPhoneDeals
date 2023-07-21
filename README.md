@@ -1,4 +1,4 @@
-# Lab01-Tue-Group07_Assignment2
+# OldPhoneDeals
 
 This project is a eCommerce-Web-Application developed using react and express framework. The database is MongoDB. We use Apifox to manage our API.
 Our final version of Assignment is in main branch.
@@ -141,23 +141,4 @@ No deployment yet.
 * [MongoDB](https://www.mongodb.com/) - Database
 * [Apifox](https://apifox.com/) - API management
 
-## Versioning
 
-v1.0
-
-
-
-
-## Authors
-
-* **Feiyang Weng** - [fwen3714](https://github.sydney.edu.au/fwen3714)
-* **Zhaohao Lu** - [zhlu](https://github.sydney.edu.au/zhlu7335)
-* **Ruoxia Wang** - [rwan0489](https://github.sydney.edu.au/rwan0489)
-
-## License
-
-This project is protected by the University of Sydney.
-
-## Acknowlegement
-
-Thank you for the hard work of members in COMP5347-group7 and others help.
